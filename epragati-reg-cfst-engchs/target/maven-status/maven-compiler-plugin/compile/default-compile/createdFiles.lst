@@ -1,0 +1,10 @@
+org\epragati\vo\EngineChassisNoVO.class
+org\epragati\service\EngineChassisNoService.class
+org\epragati\App.class
+org\tempuri\EngineNoChassisNoCheck.class
+org\epragati\serviceImpl\EngineChassisNoServiceImpl.class
+org\epragati\controller\EngineChassisNoController.class
+org\tempuri\EngineNoChassisNoCheckSoapProxy.class
+org\tempuri\EngineNoChassisNoCheckSoapStub.class
+org\tempuri\EngineNoChassisNoCheckLocator.class
+org\tempuri\EngineNoChassisNoCheckSoap.class

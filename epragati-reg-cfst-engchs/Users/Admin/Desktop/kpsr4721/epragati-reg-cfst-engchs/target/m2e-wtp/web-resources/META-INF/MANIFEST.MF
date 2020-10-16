@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: Admin
+Build-Jdk: 14.0.1
+Implementation-Title: Epragati Registration Cfst Engine Chassis Number S
+ earch
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: org.epragati
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/epragati-reg-c
+ fst-engchs/
+Created-By: Maven Integration for Eclipse
+
